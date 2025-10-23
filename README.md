@@ -1,7 +1,7 @@
 # 🧠 Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This is a **personal data engineering and analytics portfolio project** that demonstrates my skills in building **data pipelines**, **data warehouses**, and **analytical models** to generate actionable business insights.  
+This is a ** data engineering and analytics portfolio project** that demonstrates building **data pipelines**, **data warehouses**, and **analytical models** to generate actionable business insights.  
 
 It follows **industry-standard data warehousing practices** — from data ingestion to analytics — using SQL Server, Python, and visualization tools.
 
