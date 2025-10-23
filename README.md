@@ -72,26 +72,35 @@ These analytics demonstrate how structured data can support data-driven decision
 For more details, refer to docs/requirements.md
 
 **📂 Repository Structure**
+```
 data-warehouse-project/
 │
-├── datasets/                           # Raw CSV datasets used for ingestion
+├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
-├── docs/                               # Documentation and data architecture details
-│   ├── etl.drawio                      # ETL workflow diagram
-│   ├── data_architecture.drawio        # Data architecture diagram
-│   ├── data_catalog.md                 # Field descriptions and metadata
-│   ├── data_flow.drawio                # Data flow diagram
-│   ├── data_models.drawio              # Star schema model
-│   ├── naming-conventions.md           # Naming standards for tables and columns
+├── docs/                               # Project documentation and architecture details
+│   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
+│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
+│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
+│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
+│   ├── data_models.drawio              # Draw.io file for data models (star schema)
+│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
-│   ├── bronze/                         # Raw data ingestion scripts
-│   ├── silver/                         # Data cleaning and standardization scripts
-│   ├── gold/                           # Analytical model scripts (star schema)
+│   ├── bronze/                         # Scripts for extracting and loading raw data
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│   ├── gold/                           # Scripts for creating analytical models
 │
-├── tests/                              # Test scripts for data validation
+├── tests/                              # Test scripts and quality files
 │
-├── README.md                           # Project overview (this file)
-├── LICENSE                             # License information
-├── .gitignore                          # Ignored files and folders
-└── requirements.txt                    # Project dependencies
+├── README.md                           # Project overview and instructions
+├── LICENSE                             # License information for the repository
+├── .gitignore                          # Files and directories to be ignored by Git
+└── requirements.txt                    # Dependencies and requirements for the project
+```
+---
+👋 Hi, I’m Chance Zimba, a passionate Data Engineer and Data Scientist with hands-on experience in data warehousing, ETL development, and analytics.
+
+I enjoy building data-driven systems that transform raw data into meaningful insights using modern data tools and techniques.
+
+💡 Interests:
+Data Engineering • Machine Learning • NLP •AI • Business Intelligence • Data Visualization 
