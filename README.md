@@ -6,6 +6,8 @@ This is a data engineering and analytics project that is building data pipelines
 The project is designed to showcase industry-standard data warehousing practices, including data architecture design, ETL processes, data modeling, and reporting.
 
 
+
+
 **🏗️ Data Architecture**
 
 The project follows the Medallion Architecture pattern — organized into Bronze, Silver, and Gold layers — to ensure a structured and scalable data flow.
@@ -103,4 +105,4 @@ data-warehouse-project/
 I enjoy building data-driven systems that transform raw data into meaningful insights using modern data tools and techniques.
 
 💡 Interests:
-Data Engineering • Machine Learning • NLP •AI • Business Intelligence • Data Visualization 
+**Data Engineering • Machine Learning • NLP •AI • Business Intelligence • Data Visualization**
