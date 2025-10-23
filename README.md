@@ -13,8 +13,8 @@ The project is designed to showcase industry-standard data warehousing practices
 The project follows the Medallion Architecture pattern — organized into Bronze, Silver, and Gold layers — to ensure a structured and scalable data flow.
 
 **Bronze Layer**
-Stores raw data as-ingested from the source systems.
-Data is loaded directly from CSV files into the SQL Server database without any transformations.
+      Stores raw data as-ingested from the source systems.
+      Data is loaded directly from CSV files into the SQL Server database without any transformations.
 
 **Silver Layer**
 Cleans, validates, and standardizes the data.
